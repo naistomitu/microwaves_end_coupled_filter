@@ -2,7 +2,8 @@
 *Tommaso Dezuanni*: 105566079
 
 **This project was presented by Tommaso Dezuanni on 17/06/2024 for the exam call of "Microwave Engineering", an academic course held by Professor Guido Gentili at Politecnico of Milano**
-Thie presentation was rewarded with the grade of 26/30.
+
+This presentation was rewarded with the grade of 26/30.
 
 *Description of the files*:
 1. "end_coupled_filter.pptx" is a presentation realized exploiting a template available on the DEIB website, the Department of Electronics, Information and Bioengineering of Politecnico of Milano.
